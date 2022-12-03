@@ -21,7 +21,7 @@
 
 # El nombre del script a ejecutar para iniciar la base de datos con datos
 ## Backend:
-desde la carpeta de INSIDER_BLOG_UTEC_DBP10_grupo5
+desde la carpeta de TanDBP
 ### CMD: 
 cd insider_blog_backend para acceder a la carpeta
 set flask_app = server
