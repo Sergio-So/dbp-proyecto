@@ -23,7 +23,7 @@
 ## Backend:
 desde la carpeta de TanDBP
 ### CMD: 
-cd insider_blog_backend para acceder a la carpeta
+cd TanDBP para acceder a la carpeta
 set flask_app = server
 set flask_env = development
 flask run
