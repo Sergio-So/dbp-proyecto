@@ -3,7 +3,7 @@
     <h1>Tan Webpage</h1>
     <br />
     <p>
-      Esta pagina web busca ayudar a los viajeros en sus aventuras guardando
+      Nuestra pagina web busca ayudar a los viajeros en sus aventuras guardando
       lugares y aventuras favoritas en cada lugar.Asi mismo poder compartir esta
       informacion con otros usuarios .
     </p>
